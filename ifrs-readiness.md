@@ -1,0 +1,1 @@
+Assess IFRS S1/S2 readiness. Build a concise requirement-to-evidence matrix, identify material gaps, connected-information issues, climate/GHG/scenario-analysis gaps, controls, owners and a prioritized remediation plan. Do not claim compliance without complete evidence.

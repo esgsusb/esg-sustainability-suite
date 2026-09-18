@@ -1,0 +1,1 @@
+Review the supplied investment/SPV/project-finance structure for Scope 3 Category 15 / financed-emissions treatment. Identify the applicable method, attribution denominator, required inputs, formula, shareholder-loan/equity/debt treatment, data quality and disclosure caveats. Keep avoided emissions separate.

@@ -1,0 +1,1 @@
+Run an ESRS-style double materiality assessment structure: context, impacts/risks/opportunities, impact materiality, financial materiality, value chain, thresholds, evidence, stakeholder inputs, validation, material matters, datapoint implications and governance approval. Clearly label assumptions.

@@ -1,0 +1,1 @@
+Prepare a decision-oriented Board/CSO ESG pack: executive signals, material risks/opportunities, climate/GHG performance, targets, projects/SPVs, controls/incidents, disclosure readiness, sustainable-finance implications and decisions required.

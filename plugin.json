@@ -1,0 +1,27 @@
+{
+  "name": "esg-sustainability-suite",
+  "version": "2.0.0",
+  "description": "Enterprise-grade ESG and sustainability copilot with advanced reporting, GHG accounting, financed emissions, climate scenario analysis, double materiality, ESG controls, assurance, sustainable finance and board/CSO workflows.",
+  "author": {
+    "name": "Javid Huseynli"
+  },
+  "license": "MIT",
+  "keywords": [
+    "esg",
+    "sustainability",
+    "ifrs-s1",
+    "ifrs-s2",
+    "ghg-protocol",
+    "gri",
+    "esrs",
+    "sasb",
+    "climate-risk",
+    "sustainable-finance",
+    "pcaf",
+    "financed-emissions",
+    "double-materiality",
+    "assurance",
+    "greenwashing",
+    "scenario-analysis"
+  ]
+}

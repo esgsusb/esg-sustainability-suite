@@ -1,0 +1,1 @@
+Review ESG/sustainability claims for greenwashing risk and evidence sufficiency. For each claim state status, missing evidence, boundary/methodology issue, and safer evidence-based wording where needed.
