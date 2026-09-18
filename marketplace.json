@@ -1,14 +1,16 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "esg-sustainability-marketplace",
-  "description": "Advanced ESG, sustainability, climate and GHG skills for Claude.",
-  "owner": {"name": "Javid Huseynli"},
+  "description": "Professional ESG and Sustainability plugins for Claude",
+  "owner": {
+    "name": "ESG Sustainability"
+  },
   "plugins": [
     {
       "name": "esg-sustainability-suite",
-      "description": "Enterprise ESG and sustainability copilot covering disclosure, GHG accounting, climate risk, governance, materiality, sustainable finance, ESG analytics and assurance readiness.",
-      "source": "./",
-      "category": "productivity"
+      "description": "Advanced ESG, sustainability, GHG accounting, climate risk, sustainable finance and sustainability reporting suite.",
+      "version": "2.0.0",
+      "source": "./plugins/esg-sustainability-suite"
     }
   ]
 }
